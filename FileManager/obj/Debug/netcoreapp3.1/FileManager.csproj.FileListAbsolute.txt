@@ -1,0 +1,13 @@
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.deps.json
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.json
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.runtimeconfig.dev.json
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.dll
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.pdb
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.csprojAssemblyReference.cache
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfoInputs.cache
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.AssemblyInfo.cs
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.csproj.CoreCompileInputs.cache
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.dll
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.pdb
+D:\ВШЭ\Прога\Домашки\FileManager\FileManager\obj\Debug\netcoreapp3.1\FileManager.genruntimeconfig.cache
